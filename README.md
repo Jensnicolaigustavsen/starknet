@@ -11,3 +11,4 @@ Money Loves Me, And MONEY LOVES ME
 221304400
 Starknet programming
 Universal bank
+freedom
